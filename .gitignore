@@ -27,3 +27,15 @@
 *.i*86
 *.x86_64
 *.hex
+
+#release builds
+*.zip
+*.tar*
+*.xz
+
+#images
+*.png
+*.jpg
+*.svg
+*.eps
+*.ps
